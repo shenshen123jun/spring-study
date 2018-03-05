@@ -29,6 +29,7 @@ public class Adapter2 {
 	public void user18v(){
 		System.out.println("使用适配器");
 		this.current.use220V();
+		System.out.println("哈哈哈哈哈哈哈");
 	}
 }
 
